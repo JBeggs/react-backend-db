@@ -206,8 +206,8 @@ EMAIL_HOST_USER = "django.python.pro@gmail.com"
 EMAIL_HOST_PASSWORD = "zeaf ntgi bilp olil"
 
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = "632715967542-1f36u8skhqnqkr5b3eng31qq7kgcrcbd.apps.googleusercontent.com"
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = "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"
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = ""
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = ""
   
 #or any other page 
 ACCOUNT_LOGOUT_REDIRECT_URL ="/accounts/login/" 
